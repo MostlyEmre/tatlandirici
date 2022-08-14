@@ -1,5 +1,7 @@
 ## nasil kullanilir?
 
+Bu eklenti hesapsiz eksi sozluk kullanimi icin yapildi. Eksi'den cikis yapip oyle kullanmaniz tavsiye edilir. (Adblock gibi eklentileri devre disi birakabilirsiniz.)
+
 - zip olarak indir ve zip'ten cikar
 - chrome'u ac
 - [chrome://extensions/](chrome://extensions/) adresine git
