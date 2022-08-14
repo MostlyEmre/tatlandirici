@@ -1,3 +1,38 @@
+/* destroy overlay :) */
+#overlay,
+#interstitial-close-link-source {
+  pointer-events: none !important;
+  display: none !important;
+}
+
+/* disambiguations */
+#disambiguations {
+  background-color: unset !important;
+  border: 0.2rem solid mediumaquamarine !important;
+  margin-bottom: 0.8rem !important;
+}
+
+#disambiguations li {
+  margin-left: unset !important;
+  color: mediumaquamarine !important;
+}
+
+#disambiguations li a {
+  color: mediumaquamarine !important;
+}
+
+#disambiguations center {
+  text-align: unset !important;
+  margin-top: 0.4rem !important;
+
+  color: mediumaquamarine !important;
+  opacity: 0.5 !important;
+}
+
+.read-more-link {
+  color: mediumaquamarine !important;
+}
+
 /* dark mode */
 body {
   color: whitesmoke !important;
@@ -184,7 +219,7 @@ div.eksiseyler-logo-container {
 }
 
 #top-navigation {
-  display: none !important;
+  opacity: 0 !important;
 }
 
 #site-footer {
