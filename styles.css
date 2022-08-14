@@ -1,3 +1,7 @@
+* {
+  border-radius: unset !important;
+}
+
 /* destroy overlay :) */
 #overlay,
 #interstitial-close-link-source {
