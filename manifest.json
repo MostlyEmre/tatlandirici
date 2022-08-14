@@ -4,9 +4,10 @@
   "name": "Tatlandirici",
   "version": "0.1.0",
   "description": "eksi sozluk tatlandirici. fikri zikri belli css modu.",
-
   "content_scripts": [
     {
+      "run_at": "document_start",
+      "js": ["content.js"],
       "css": ["styles.css"],
       "matches": ["https://*.eksisozluk.com/*", "http://*.eksisozluk.com/*"]
     }
