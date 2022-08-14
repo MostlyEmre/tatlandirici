@@ -2,6 +2,16 @@
   border-radius: unset !important;
 }
 
+/* aligns the advanced search */
+#advanced-search-form {
+  /* left: 10px !important; */
+  border-color: mediumaquamarine !important;
+}
+
+.actions .primary {
+  background-color: mediumaquamarine !important;
+}
+
 /* destroy overlay :) */
 #overlay,
 #interstitial-close-link-source {
@@ -65,6 +75,7 @@ header {
 #top-bar {
   height: unset !important;
   margin: unset !important;
+  border-bottom: none !important;
 }
 
 #logo {
