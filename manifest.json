@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+
+  "name": "Tatlandirici",
+  "version": "0.1.0",
+  "description": "eksi sozluk tatlandirici. fikri zikri belli css modu.",
+
+  "content_scripts": [
+    {
+      "css": ["styles.css"],
+      "matches": ["https://*.eksisozluk.com/*", "http://*.eksisozluk.com/*"]
+    }
+  ],
+  "icons": {
+    "128": "icon128.png"
+  }
+}

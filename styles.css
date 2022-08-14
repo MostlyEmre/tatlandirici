@@ -1,0 +1,192 @@
+/* dark mode */
+body {
+  color: whitesmoke !important;
+  background-color: black !important;
+  padding: unset !important;
+}
+
+/* clear left */
+#main {
+  margin-left: unset !important;
+}
+
+#container {
+  margin-top: 4rem !important;
+  margin-left: unset !important;
+  margin-right: unset !important;
+}
+
+/* header fix */
+header {
+  background-color: black !important;
+  border-bottom: none !important;
+  border-top-color: mediumaquamarine !important;
+}
+
+#top-bar {
+  height: unset !important;
+  margin: unset !important;
+}
+
+#logo {
+  display: none !important;
+}
+
+#search-textbox {
+  /* width: 645px !important; */
+  border-color: mediumaquamarine !important;
+}
+
+/* change entry link color */
+.content a {
+  color: mediumaquamarine !important;
+}
+
+/* search button color */
+button[aria-label="getir"] {
+  background-color: mediumaquamarine !important;
+}
+
+span[itemprop="name"] {
+  color: whitesmoke !important;
+}
+
+/* hide sorunsallar */
+.sub-title-menu > a {
+  display: none !important;
+}
+
+/* change sukela color */
+.nice-mode-toggler {
+  background-color: mediumaquamarine !important;
+  padding: 0.4rem 0.6rem !important;
+  color: #333 !important;
+}
+
+.nice-mode-toggler a {
+  /* color: #333 !important; */
+  text-decoration: underline !important;
+  font-weight: bold !important;
+}
+.nice-mode-toggler a:active,
+.nice-on {
+  color: whitesmoke !important;
+}
+
+/* pagination */
+.pager > a {
+  color: mediumaquamarine !important;
+}
+
+/* link hover */
+html.no-touch a:hover {
+  color: mediumaquamarine !important;
+}
+
+/* Hide images */
+#index-section {
+  display: none !important;
+}
+.bottom-ads {
+  display: none !important;
+}
+.stick-ad {
+  display: none !important;
+}
+#sticky-ad {
+  display: none !important;
+}
+.ad-double-click {
+  display: none !important;
+}
+.ad-banner {
+  display: none !important;
+}
+.ad-1x1 {
+  display: none !important;
+}
+#ad_unit {
+  display: none !important;
+}
+.sponsored {
+  display: none !important;
+}
+.under-top-ad {
+  display: none !important;
+}
+#video {
+  display: none !important;
+}
+.pena-logo-container {
+  display: none !important;
+}
+.favorite-count {
+  display: none !important;
+}
+.favorite-link {
+  margin-right: 0.5rem !important;
+  opacity: 0.6 !important;
+  text-decoration: none !important;
+}
+.favorited {
+  opacity: 1 !important;
+}
+.favorite-link:hover {
+  opacity: 1 !important;
+  text-decoration: none !important;
+}
+iframe[title="ekşi şeyler"] {
+  display: none !important;
+}
+#aside {
+  display: none !important;
+}
+
+footer {
+  border-top: 1px solid #e6e6e672 !important;
+  margin-top: 0.8rem !important;
+}
+
+.feedback-container {
+  display: none !important;
+}
+
+.avatar-container {
+  display: none !important;
+}
+
+#entry-nick-container {
+  display: none !important;
+}
+
+#entry-author {
+  display: none !important;
+}
+
+#aside > iframe {
+  display: none !important;
+}
+div.eksiseyler-logo-container {
+  display: none !important;
+}
+#user-badges {
+  display: none;
+}
+.avatar-container {
+  display: none !important;
+}
+#profile-logo {
+  display: none !important;
+}
+
+#sub-navigation {
+  display: none !important;
+}
+
+#top-navigation {
+  display: none !important;
+}
+
+#site-footer {
+  display: none !important;
+}
