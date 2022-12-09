@@ -140,6 +140,9 @@ html.no-touch a:hover {
 .bottom-ads {
   display: none !important;
 }
+.cto_banner_content {
+  display: none !important;
+}
 .stick-ad {
   display: none !important;
 }
