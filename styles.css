@@ -2,6 +2,10 @@
   border-radius: unset !important;
 }
 
+iframe {
+  display: none;
+}
+
 /* aligns the advanced search */
 #advanced-search-form {
   /* left: 10px !important; */
@@ -141,6 +145,9 @@ html.no-touch a:hover {
   display: none !important;
 }
 .cto_banner_content {
+  display: none !important;
+}
+.networkad-inread-video-ad {
   display: none !important;
 }
 .stick-ad {
